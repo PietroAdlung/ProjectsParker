@@ -1,0 +1,31 @@
+head= cabeça do site
+body= corpo, dentro irão os codigos
+header= cabeçalho
+<main> = usada para envolver todo o conteúdo principal da página
+<footer< = Rodapé
+<strong> = destacar
+<a> = ancora para botões
+<button> = interação
+
+h1= Titulo
+h2= SubTitulo
+p= parágrafo
+<img src="caminho-da-imagem.jpg" alt="Descrição da imagem">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">  =   Para que a tela se adapte por qualquer dispositivo
+<meta charset="UTF-8"> definir o idioma que você vai usar para escrever um texto. = <html lang="pt-br">
+
+<ul> = um marcador de lista
+<ol> = usado para criar passsos de lista, dentro será usado <li>
+Exemplo:
+   <ol>
+            <li>Misture os ingredientes secos.</li>
+            <li>Adicione os ingredientes molhados.</li>
+            <li>Mexa até obter uma massa homogênea.</li>
+            <li>Asse no forno pré-aquecido.</li>
+            <li>Espere esfriar e sirva.</li>
+        </ol>
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+
